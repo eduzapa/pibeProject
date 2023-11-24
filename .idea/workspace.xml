@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="108be505-9614-472f-9ff3-a784d8518539" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/conexiones/ConexionBBDD.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/conexiones/ConexionSpark.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectura/Lector.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectura/cuentas/LectorCuentas.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectura/cuentas/implementaciones/LectorCuentasCSV.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectura/sucursales/LectorSucursales.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectura/sucursales/implementaciones/LectorSucursalesJSON.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/validar/Validar.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/validar/implementacion/ValidarImplementacion.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bsp/sbt.json" beforeDir="false" afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/prueba.scala" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +30,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pibeproject" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,8 +84,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",

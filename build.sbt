@@ -7,3 +7,4 @@ lazy val root = (project in file("."))
     name := "pibeproject",
     idePackagePrefix := Some("com.banco.cuenta")
   )
+libraryDependencies += "org.apache.spark" %% "spark-sql" % "3.5.0"
