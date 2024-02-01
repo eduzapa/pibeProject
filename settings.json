@@ -1,0 +1,56 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "vscode-edge-devtools.mirrorEdits": true,
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "One Dark Pro Mix",
+    "editor.wordWrap": "on",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "update.showReleaseNotes": false,
+    "editor.lineNumbers": "relative",
+    "editor.cursorBlinking": "expand",
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "vim.commandLineModeKeyBindings": [],
+    "vim.handleKeys": {
+        "<C-d>": true,
+        "<C-s>": false,
+        "<C-z>": false,
+        "<C-f>": false,
+        "<C-b>": false
+    },
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.scrollbar.vertical": "hidden",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.menuBarVisibility": "compact",
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "css.validate": false,
+    "editor.inlineSuggest.enabled": true,
+    "settingsSync.ignoredExtensions": [],
+    "settingsSync.ignoredSettings": [],
+    "accessibility.dimUnfocused.enabled": true,
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "files.watcherExclude": {
+        "**/.bloop": true,
+        "**/.metals": true,
+        "**/.ammonite": true
+    },
+    "files.autoSave": "afterDelay",
+    "pddl.selectedPlanner": "Planning as a service (paas-uom.org:5001)",
+    "pddlParser.executableOrService": "c:\\Users\\eduar\\AppData\\Roaming\\Code\\User\\globalStorage\\jan-dolejsi.pddl\\val\\Val-20210401.1-win64\\bin\\Parser.exe",
+    "pddl.validatorPath": "c:\\Users\\eduar\\AppData\\Roaming\\Code\\User\\globalStorage\\jan-dolejsi.pddl\\val\\Val-20210401.1-win64\\bin\\Validate.exe",
+    "pddl.valueSeqPath": "c:\\Users\\eduar\\AppData\\Roaming\\Code\\User\\globalStorage\\jan-dolejsi.pddl\\val\\Val-20210401.1-win64\\bin\\ValueSeq.exe",
+    "pddl.valStepPath": "c:\\Users\\eduar\\AppData\\Roaming\\Code\\User\\globalStorage\\jan-dolejsi.pddl\\val\\Val-20210401.1-win64\\bin\\ValStep.exe",
+    "workbench.statusBar.visible": false
+}
